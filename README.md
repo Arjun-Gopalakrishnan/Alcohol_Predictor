@@ -36,5 +36,10 @@ Key Steps:
 Data cleaning (handled missing values)
 Feature engineering (one-hot encoded continents)
 Model selection (R² score optimization)
+
 #Links
 Live App: https://alcoholpredictor-gozxsmmabywfbqkvz6jmgr.streamlit.app/
+
+
+ ![image](https://github.com/user-attachments/assets/aad2a977-fef8-4bae-a3f2-a118ca907540)
+
